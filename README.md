@@ -1,6 +1,6 @@
 
+![b24bbce7e3116bf4f293ca225dd5db30](https://github.com/MalmiPerera/MalmiPerera/assets/156415056/2c6e3039-aa1d-495f-8344-d73aaf188cc3)
 
-![c7cc119cffc5fa2aab85538e0171d8d4](https://github.com/MalmiPerera/MalmiPerera/assets/156415056/5ace136d-f327-4c09-b7c7-6babb9d647d1)
 
 <h1 align="center">Hi 👋, I'm Malmi Perera</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
