@@ -1,5 +1,5 @@
 
-![b24bbce7e3116bf4f293ca225dd5db30](https://github.com/MalmiPerera/MalmiPerera/assets/156415056/2c6e3039-aa1d-495f-8344-d73aaf188cc3)
+<center> ![b24bbce7e3116bf4f293ca225dd5db30](https://github.com/MalmiPerera/MalmiPerera/assets/156415056/2c6e3039-aa1d-495f-8344-d73aaf188cc3) </center>
 
 
 <h1 align="center">Hi 👋, I'm Malmi Perera</h1>
